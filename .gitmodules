@@ -1,0 +1,9 @@
+[submodule "libasync"]
+	path = libasync
+	url = git@github.com:wjp-release/libasync.git
+[submodule "posix-commons"]
+	path = posix-commons
+	url = git@github.com:wjp-release/posix-commons.git
+[submodule "googletest"]
+	path = googletest
+	url = https://github.com/google/googletest.git
